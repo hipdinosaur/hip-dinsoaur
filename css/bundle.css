@@ -23,7 +23,7 @@ body {
 body:after {
   z-index: -1;
   animation: grain 8s steps(10) infinite;
-  background-image: url("../images/grain-small.png");
+  background-image: url("../assets/grain-small.png");
   content: "";
   height: 300%;
   left: -50%;
@@ -316,7 +316,7 @@ a:hover {
 }
 
 .grit {
-  background-image: url("../images/grain.png");
+  background-image: url("../assets/grain.png");
   position: fixed;
   width: 100vw;
   height: 100vh;
@@ -339,6 +339,7 @@ span.photo {
   transition: 0.2s;
   background: linear-gradient(90deg, rgb(225, 102, 68) 0%, rgb(41, 180, 192) 100%);
   -webkit-background-clip: text;
+  background-clip: text;
 }
 span.photo:hover {
   color: rgba(255, 255, 255, 0);
@@ -403,6 +404,7 @@ span.photo:hover {
   margin-bottom: 4px;
   background: linear-gradient(90deg, #e16644 0%, #29b4c0 100%);
   -webkit-background-clip: text;
+  background-clip: text;
   display: inline-block;
   color: rgb(255, 255, 255);
 }
@@ -539,7 +541,7 @@ span.photo:hover {
   align-self: flex-end;
 }
 .work::after {
-  content: url("../images/arrow.svg");
+  content: url("../assets/arrow.svg");
   position: relative;
   transition: all 0.2s;
   left: -16px;
@@ -645,7 +647,7 @@ span.photo:hover {
 }
 
 .case-meta .arrow::after {
-  content: url("../images/arrow-small.svg");
+  content: url("../assets/arrow-small.svg");
 }
 
 .laptop .arrow-link {
@@ -654,7 +656,7 @@ span.photo:hover {
   top: -16px;
 }
 .laptop .arrow-link .arrow::after {
-  content: url("../images/arrow-small.svg");
+  content: url("../assets/arrow-small.svg");
 }
 @media screen and (max-width: 769px) {
   .laptop .arrow-link {
@@ -1566,6 +1568,7 @@ footer .links a:hover {
   transition: 0.2s;
   background: linear-gradient(90deg, rgb(225, 102, 68) 0%, rgb(41, 180, 192) 100%);
   -webkit-background-clip: text;
+  background-clip: text;
 }
 .description-columns .collaborators p {
   margin: 0;
@@ -1578,7 +1581,7 @@ footer .links a:hover {
   margin-top: 32px;
 }
 .description-columns .collaborators .collaborator:after {
-  content: url(/images/link-out.svg);
+  content: url(/assets/link-out.svg);
   position: relative;
   top: 1.5px;
   margin-left: 0.5rem;
@@ -1686,7 +1689,7 @@ footer .links a:hover {
 
 .mediatrust .image-border:last-child:after {
   content: "";
-  background: url(/images/mediatrust-networks.png);
+  background: url(/assets/mediatrust-networks.png);
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
@@ -1698,7 +1701,7 @@ footer .links a:hover {
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .mediatrust .image-border:last-child:after {
-    background: url(/images/mediatrust-networks@2x.png);
+    background: url(/assets/mediatrust-networks@2x.png);
     background-size: contain;
     background-repeat: no-repeat;
   }
@@ -2071,7 +2074,7 @@ footer .links a:hover {
   justify-content: center;
   padding-top: 20vw;
   padding-bottom: 20vw;
-  cursor: url("../images/nextiva-cursor.svg"), auto;
+  cursor: url("../assets/nextiva-cursor.svg"), auto;
 }
 @media screen and (max-width: 769px) {
   .nextiva .main {
@@ -2088,7 +2091,7 @@ footer .links a:hover {
   position: absolute;
   height: 100%;
   width: 100%;
-  background: url("../images/nextiva-bg.png");
+  background: url("../assets/nextiva-bg.png");
   background-size: cover;
   top: 20px;
   left: -20px;
@@ -2115,7 +2118,7 @@ footer .links a:hover {
 .nextiva .card::after {
   content: "";
   position: absolute;
-  background: url("../images/nextiva-dots.png");
+  background: url("../assets/nextiva-dots.png");
   background-size: cover;
   width: 22px;
   height: 5px;
