@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="20px" viewBox="0 0 49 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="25.0070423" height="20"></rect>
+    </defs>
+    <g id="arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2-Copy-3">
+            <polygon id="Rectangle" fill="#121212" points="0.852112676 9.01960784 42.2816901 9.01960784 42.2816901 10.5882353 0.852112676 10.5882353"></polygon>
+            <g id="Combined-Shape" transform="translate(23.992958, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <path d="M7.18535242,23.4736931 L6.07616531,22.364506 L18.2158399,10.2238474 L5.46083986,-2.53147207 L6.5165204,-3.58715262 L20.3813592,10.2776862 L7.18535242,23.4736931 Z" fill="#121212" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

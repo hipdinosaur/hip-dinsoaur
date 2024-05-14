@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="376px" height="375px" viewBox="0 0 376 375" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>cityparks-colors</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Case-Study/-City-Parks" transform="translate(-900.000000, -1469.000000)">
+            <g id="cityparks-colors" transform="translate(900.000000, 1469.000000)">
+                <rect id="Rectangle-Copy-25" fill="#EFEFEA" fill-rule="nonzero" x="0" y="125" width="126" height="125"></rect>
+                <rect id="Rectangle-Copy-26" fill="#B8D97A" fill-rule="nonzero" x="0" y="250" width="126" height="125"></rect>
+                <rect id="Rectangle-Copy-28" fill="#7DD0DC" fill-rule="nonzero" x="126" y="125" width="125" height="125"></rect>
+                <rect id="Rectangle-Copy-27" fill="#A3CE4C" fill-rule="nonzero" x="126" y="250" width="125" height="125"></rect>
+                <rect id="Rectangle-Copy-30" fill="#00A0B0" fill-rule="nonzero" x="251" y="125" width="125" height="125"></rect>
+                <rect id="Rectangle-Copy-29" fill="#7AA02C" fill-rule="nonzero" x="251" y="250" width="125" height="125"></rect>
+                <rect id="Rectangle-Copy-33" fill="#005D8A" fill-rule="nonzero" x="251" y="0" width="125" height="125"></rect>
+                <rect id="Rectangle-Copy-35" fill="#002436" fill-rule="nonzero" x="126" y="0" width="125" height="125"></rect>
+                <rect id="Rectangle-Copy-36" fill="#302F26" fill-rule="nonzero" x="0" y="-7.10542736e-15" width="126" height="125"></rect>
+                <g id="Group-13" transform="translate(159.000000, 170.000000)" stroke="#FFFFFF" stroke-width="3">
+                    <path d="M37.9770115,8.74545455 C37.9770115,13.5754887 34.0298077,17.4909091 29.1609195,17.4909091 C24.291873,17.4909091 20.3448276,13.5754887 20.3448276,8.74545455 C20.3448276,3.91557744 24.291873,0 29.1609195,0 C34.0298077,0 37.9770115,3.91557744 37.9770115,8.74545455 Z" id="Stroke-1"></path>
+                    <path d="M25.091954,36.8899628 C25.091954,36.8899628 21.9425741,22.645137 16.0106727,16.8127987 C10.0789286,10.9806153 0,12.2191612 0,12.2191612 C0,12.2191612 3.14937994,26.463987 9.08112396,32.2961705 C15.0130254,38.128354 25.091954,36.8899628 25.091954,36.8899628 Z" id="Stroke-3"></path>
+                    <path d="M33.908046,36.8899628 C33.908046,36.8899628 37.0574259,22.645137 42.9891699,16.8127987 C48.9210714,10.9806153 59,12.2191612 59,12.2191612 C59,12.2191612 55.8506201,26.463987 49.918876,32.2961705 C43.987132,38.128354 33.908046,36.8899628 33.908046,36.8899628 Z" id="Stroke-5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

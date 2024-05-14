@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="16px" viewBox="0 0 36 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>arrow-small</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="19.9035642" height="16"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Case-Study/-City-Parks" transform="translate(-451.000000, -424.000000)">
+            <g id="Group-Copy" transform="translate(320.000000, 420.000000)">
+                <g id="arrow/light" transform="translate(131.000000, 4.000000)">
+                    <g id="Group-2-Copy-3">
+                        <polygon id="Rectangle" fill="#FFFFFF" points="0.67821213 7.21568627 33.6527738 7.21568627 33.6527738 8.47058824 0.67821213 8.47058824"></polygon>
+                        <g id="Combined-Shape" transform="translate(19.096436, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <path d="M5.71895396,18.7789544 L4.83613157,17.8916048 L14.4983827,8.1782779 L4.34638274,-2.02517766 L5.18661828,-2.8697221 L16.2218982,8.22214898 L15.3816626,9.06669342 L5.71895396,18.7789544 Z" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
